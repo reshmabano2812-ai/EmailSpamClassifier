@@ -21,3 +21,6 @@ This project is a machine learning-based email spam classifier that automaticall
 **#Vectorization:** TF-IDF Vectorizer / Count Vectorizer
 
 **#Algorithms:** Naive Bayes (Multinomial), Logistic Regression, Support Vector Machines (SVM)
+
+# Link For Data Set 
+
