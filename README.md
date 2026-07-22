@@ -5,14 +5,14 @@ This project is a machine learning-based email spam classifier that automaticall
 
 # Features
 
- **# .High Accuracy:** Utilizes advanced Natural Language Processing (NLP) techniques.
+**# .High Accuracy:** Utilizes advanced Natural Language Processing (NLP) techniques.
 
 **# .Real-time Classification:** Predicts whether an incoming email is "Spam" or "Ham" (Legitimate) instantly.
 
 **# .Text Preprocessing:** Cleans data automatically by removing punctuation, stopwords, and performing stemming.
 
 
-**# Tech Stack** 
+# Tech Stack
 
 **#Language:** Python 3.x
 
