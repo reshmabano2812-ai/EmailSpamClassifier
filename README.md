@@ -24,3 +24,6 @@ This project is a machine learning-based email spam classifier that automaticall
 
 # Link For Data Set 
 
+Check out the 
+[EmailSpamDataset]
+(https://drive.google.com/drive/folders/1bRuM2RJ3CGD5_PtnIr7jVbC5kOJW5o6x?usp=sharing)
